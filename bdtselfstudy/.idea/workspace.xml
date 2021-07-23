@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfe3aab5-08e3-4098-b951-29952e651e82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1vhQq9jlPzrRROFxJCL3OwHMD9m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sukanya Bharati\Desktop\bdtselfstudy\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IPL" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="IPL" />
+      <module name="selfstudycomp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IPL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="selfstudycomp" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="bdtselfstudy [file:/C:/Users/Sukanya%20Bharati/Desktop/bdtselfstudy/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="selfstudycomp-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3254024082297" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1156402420" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfe3aab5-08e3-4098-b951-29952e651e82" name="Default Changelist" comment="" />
+      <created>1627012028434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627012028434</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="253" y="60" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627013891773">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="253" y="60" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1627013891773" />
+    <state width="1493" height="676" key="GridCell.Tab.0.bottom" timestamp="1627043675621">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="676" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1627043675621" />
+    <state width="1493" height="676" key="GridCell.Tab.0.center" timestamp="1627043675620">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="676" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1627043675620" />
+    <state width="1493" height="676" key="GridCell.Tab.0.left" timestamp="1627043675620">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="676" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1627043675620" />
+    <state width="1493" height="676" key="GridCell.Tab.0.right" timestamp="1627043675621">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="676" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1627043675621" />
+  </component>
+</project>

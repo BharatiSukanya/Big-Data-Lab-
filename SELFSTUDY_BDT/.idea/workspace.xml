@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="241e2b35-19a3-40d1-80fa-1fa09ed38862" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1vhHWbpwQXV08g5hPSeD6KazKXH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sukanya Bharati\Desktop\SELFSTUDY_BDT\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ipl_dataset" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ipl_dataset" />
+      <module name="SELFSTUDY_BDT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SELFSTUDY_BDT" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="selfstudy_bdt [file:/C:/Users/Sukanya%20Bharati/Desktop/SELFSTUDY_BDT/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="SELFSTUDY_BDT-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3254017180259" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3837136181" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="241e2b35-19a3-40d1-80fa-1fa09ed38862" name="Default Changelist" comment="" />
+      <created>1627007432179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627007432179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627008146441">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1627008146441" />
+    <state x="493" y="106" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1627007576125">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="493" y="106" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1627007576125" />
+    <state width="1493" height="634" key="GridCell.Tab.0.bottom" timestamp="1627011069127">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="634" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1627011069127" />
+    <state width="1493" height="634" key="GridCell.Tab.0.center" timestamp="1627011069127">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="634" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1627011069127" />
+    <state width="1493" height="634" key="GridCell.Tab.0.left" timestamp="1627011069127">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="634" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1627011069127" />
+    <state width="1493" height="634" key="GridCell.Tab.0.right" timestamp="1627011069127">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="634" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1627011069127" />
+    <state width="1493" height="634" key="GridCell.Tab.1.bottom" timestamp="1627011069127">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="634" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1627011069127" />
+    <state width="1493" height="634" key="GridCell.Tab.1.center" timestamp="1627011069127">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="634" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1627011069127" />
+    <state width="1493" height="634" key="GridCell.Tab.1.left" timestamp="1627011069127">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="634" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1627011069127" />
+    <state width="1493" height="634" key="GridCell.Tab.1.right" timestamp="1627011069127">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="634" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1627011069127" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1627010835438">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1627010835438" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1627010750416">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1627010750416" />
+    <state x="462" y="15" width="611" height="804" key="find.popup" timestamp="1627009673732">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="462" y="15" width="611" height="804" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1627009673732" />
+    <state x="425" y="71" width="672" height="676" key="search.everywhere.popup" timestamp="1627009410361">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="71" width="672" height="676" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1627009410361" />
+  </component>
+</project>
